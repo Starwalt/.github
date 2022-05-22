@@ -12,12 +12,17 @@
 
 🍿 Fun facts - what does your team eat for breakfast?
 
-   -> Website Design
+   🧙 **Website Design**
 
-   -> Online Payment
+   🧙 **Online Payment**
      
-   -> Digital Marketing
+   🧙 **Digital Marketing**
+   
+   🧙 **Data Driven Analytics** - Excel Data view in Different Format PDF, Excel, CSV, Copy Content
+   
+   🧙 **SEO**
+   
 
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+ 
 
