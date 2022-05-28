@@ -6,9 +6,10 @@
      
    👩‍ **Digital Marketing**
    
-   💻 **Data Driven Analytics**
+   💻 **Data Driven Analytics and Online API**
    
    🍿 **SEO**
+   
    
 ### Languages and Tools:
 
