@@ -4,11 +4,13 @@
 
    🌈 **Online Payment**
      
-   👩‍ **Digital Marketing**
+   👩‍ **Digital Marketing and API**
    
-   💻 **Data Driven Analytics and Online API**
+   💻 **Data Driven Analytics and Online E-learning**
    
    🍿 **SEO**
+   
+  
    
    
 ### Languages and Tools:
