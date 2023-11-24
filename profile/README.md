@@ -1,16 +1,16 @@
 **Our Products/ Services**
 
-   🧙 **Website Design**
+   🧙 **Website Development and Design**
 
-   🌈 **Online Payment**
+   🌈 **Online Payment APIs**
      
-   👩‍ **Digital Marketing and API**
+   👩‍ **Digital Marketing and APIs**
    
    💻 **Data Driven Analytics and Online E-learning**
    
    🍿 **SEO**
    
-  
+   💻 **Amazon-Associates-Program**
    
    
 ### Languages and Tools:
