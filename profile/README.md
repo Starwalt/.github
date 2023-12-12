@@ -6,11 +6,11 @@
      
    👩‍ **Digital Marketing and APIs**
    
-   💻 **Data Driven Analytics and Online E-learning**
+   💻 **Google Data Driven Analytics**
    
-   🍿 **SEO**
+   🍿 **Google SEO**
    
-   💻 **Amazon-Associates-Program**
+   🧙 **Amazon-Associates-Program**
    
    
 ### Languages and Tools:
